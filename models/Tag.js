@@ -1,5 +1,4 @@
 const { Model, DataTypes } = require('sequelize');
-
 const sequelize = require('../config/connection.js');
 
 class Tag extends Model {}
@@ -8,9 +7,9 @@ Tag.init(
   {
     id: {
       type: DataTypes.INTEGER,
+      allowNull: false,
       primaryKey: true,
       autoIncrement: true,
-      allowNull: false
     },
     tag_name: {
       type: DataTypes.STRING,
@@ -26,4 +25,3 @@ Tag.init(
 );
 
 module.exports = Tag;
-
