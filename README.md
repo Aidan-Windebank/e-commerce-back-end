@@ -19,4 +19,4 @@ The following is an e-commerce back end web application. The web application was
 [Click Here to View GitHub Repo](https://github.com/Aidan-Windebank/e-commerce-back-end)
 
 ## Link to Screencast Video to See Application in Use
-[Click Here to View Video]()
+[Click Here to View Video](https://drive.google.com/file/d/1nTLFRpEk5yVn0jZlL3WN3fIlDcFJ4DEX/view)
